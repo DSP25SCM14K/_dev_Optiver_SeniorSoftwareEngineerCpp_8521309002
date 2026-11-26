@@ -4,14 +4,16 @@ Role-focused portfolio for Dev Kumar. Static HTML, CSS, and JavaScript with an a
 
 ## Company and role research
 
-The site’s visual and content direction reflects the published role scope; public-facing copy emphasizes the work and experience without naming a target company.
+**Role and company context.** Optiver’s Austin Senior Software Engineer C++ role is on the HFT team. It describes end-to-end ownership from data and simulation through production order execution, with ML-driven strategies, high-performance C++, robust infrastructure, technical direction, and research at scale. Optiver’s Austin office page presents the location as a hub for HFT, ML, research infrastructure, hardware/software co-design, measurement, and close iteration with trading and research teams.
+
+**Résumé fit and portfolio decisions.** The resume’s strongest evidence is direct: 38% lower tick-to-trade, sub-microsecond book building, simulation-to-live fill reconciliation, FPGA packet parsing and execution, ML inference, and engineering standards across production releases. The website frames these as a measured data-to-execution lifecycle.
 
 Official sources reviewed:
 
-- [Optiver — Senior Software Engineer C++ (Austin)](https://www.optiver.com/join-us/jobs/technology/austin/senior-software-engineer-c-plus-plus/?gh_jid=8521309002)
-- [Optiver — Austin office, research and hardware](https://www.optiver.com/join-us/locations/austin)
-- [Optiver — Austin technology roles](https://www.optiver.com/join-us/jobs/technology/austin/)
+- [https://www.optiver.com/join-us/jobs/technology/austin/senior-software-engineer-c-plus-plus/?gh_jid=8521309002](https://www.optiver.com/join-us/jobs/technology/austin/senior-software-engineer-c-plus-plus/?gh_jid=8521309002)
+- [https://www.optiver.com/join-us/locations/austin](https://www.optiver.com/join-us/locations/austin)
+- [https://www.optiver.com/join-us/jobs/technology/austin/](https://www.optiver.com/join-us/jobs/technology/austin/)
 
 ## Publish
 
-GitHub Actions deploys this static website to GitHub Pages on pushes to `main`.
+GitHub Actions deploys this static website to GitHub Pages on pushes to `main`. Experience section: 16 bullets.
